@@ -1,0 +1,103 @@
+% resume.cls — example / template file
+% GitHub: https://github.com/tahahb79
+% (replace with this repository's URL once published)
+%
+% This is a placeholder example showing how to use resume.cls.
+% Replace every field below with your own information.
+
+\documentclass{resume}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2cm]{geometry}
+
+\setfooter{Updated in Jan 2026}
+
+\begin{document}
+
+\name{Your Name}
+\personalinfo{Your City}{Your Country}{}
+             {your.email@example.com}{+1 (555) 123-4567}
+
+\begin{center}\small
+\href{https://github.com/yourusername}{GitHub}\ \textbar\
+\href{https://yourwebsite.com}{Website}\ \textbar\
+\href{https://scholar.google.com/}{Google Scholar}\ \textbar\
+\href{https://www.linkedin.com/in/yourusername/}{LinkedIn}
+\end{center}
+
+%----------------------------------------------------------------------
+\cvsection{Professional Summary}
+
+\cvitemfull{One or two sentences summarizing your background, area of
+focus, and what you're looking for next. Keep it specific and
+fact-based rather than full of generic buzzwords.}
+\cvitemfull{\textbf{Research interests:} Topic One, Topic Two, Topic
+Three, Topic Four.}
+
+%----------------------------------------------------------------------
+\cvsection{Education}
+
+\cveventfull{Sep 2023 -- present}{Master of Science in Your Field}
+            {Your University}{City, Country}
+\cvitemfull{Cumulative GPA: 3.9/4.0}
+
+\cveventfull{Sep 2018 -- Jun 2022}{Bachelor of Science in Your Field}
+            {Your University}{City, Country}
+\cvitemfull{Cumulative GPA: 3.6/4.0}
+
+%----------------------------------------------------------------------
+\cvsection{Publications \& Manuscripts}
+
+\cvitemfull{
+\textbf{Your Name}, Co-author One, Co-author Two.
+\newblock \href{https://example.com}{Title of your paper goes here}.
+\newblock \emph{Name of Journal or Conference}, Jan 2026.
+}
+
+%----------------------------------------------------------------------
+\cvsection{Research \& Academic Projects}
+
+\cvitemfull{\textbf{Project Title One}}
+\cvsubitemfull{One or two sentences describing what you built, the
+methods or tools used, and a measurable result.}
+
+\medskip
+\cvitemfull{\textbf{Project Title Two}}
+\cvsubitemfull{One or two sentences describing what you built, the
+methods or tools used, and a measurable result.}
+
+%----------------------------------------------------------------------
+\cvsection{Professional Experience}
+
+\cveventfull{Jun 2023 -- Present}{Your Job Title}
+            {Company Name}{City, Country}
+\cvitemfull{Describe a key responsibility or achievement, ideally with
+a measurable outcome.}
+\cvitemfull{Describe another key responsibility or achievement.}
+
+\cveventfull{Jan 2022 -- May 2023}{Previous Job Title}
+            {Previous Company}{City, Country}
+\cvitemfull{Describe a key responsibility or achievement.}
+
+%----------------------------------------------------------------------
+\cvsection{Technical Skills}
+
+\cvitemfull{\textbf{Category One:} Skill, Skill, Skill, Skill.}
+\cvitemfull{\textbf{Category Two:} Skill, Skill, Skill.}
+\cvitemfull{\textbf{Category Three:} Skill, Skill, Skill, Skill.}
+
+%----------------------------------------------------------------------
+\cvsection{Languages}
+
+\cvitemfull{English: Fluent}
+
+%----------------------------------------------------------------------
+\cvsection{References}
+
+\cvrefereefull{Reference Name}
+              {Their Title}
+              {Their Department, Their Institution}
+              {reference@example.com}
+              {}
+              {https://example.com}
+
+\end{document}
