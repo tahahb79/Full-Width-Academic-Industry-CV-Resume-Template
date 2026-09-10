@@ -7,7 +7,7 @@ dates and locations aligned to the right edge of the same line —
 no wasted margins, no mismatched columns.
 
 **GitHub:** https://github.com/tahahb79
-*(replace with this repository's URL once published)*
+
 
 ## Preview
 
