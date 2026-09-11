@@ -9,6 +9,10 @@ no wasted margins, no mismatched columns.
 **GitHub:** https://github.com/tahahb79
 
 
+[![Open in Overleaf](https://img.shields.io/badge/Open%20in-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/read/szvryyrmyjwy#b7be06)
+
+*(read-only preview — make a copy from within Overleaf to edit)*
+
 ## Preview
 
 Built with `resume.cls` — a from-scratch LaTeX class (not a fork of
