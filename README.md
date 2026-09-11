@@ -1,4 +1,4 @@
-# resume — A Clean LaTeX CV/Resume Template
+# resume — A Clean LaTeX CV Template
 
 A minimal, single-column LaTeX resume/CV template with a consistent
 full-width layout: every section (education, experience, projects,
