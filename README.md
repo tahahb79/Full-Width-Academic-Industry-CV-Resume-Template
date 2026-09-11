@@ -1,6 +1,6 @@
 # A Clean LaTeX CV Template
 
-A minimal, single-column LaTeX resume/CV template with a consistent
+A minimal, single-column LaTeX CV template with a consistent
 full-width layout: every section (education, experience, projects,
 publications, skills, references) spans the full text width, with
 dates and locations aligned to the right edge of the same line —
