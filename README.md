@@ -6,7 +6,7 @@ publications, skills, references) spans the full text width, with
 dates and locations aligned to the right edge of the same line —
 no wasted margins, no mismatched columns.
 
-**GitHub:** https://github.com/tahahb79
+**GitHub:** https://github.com/tahahb79/Full-Width-Academic-Industry-CV-Resume-Template/tree/main
 
 
 ## Preview
